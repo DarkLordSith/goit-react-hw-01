@@ -1,0 +1,10 @@
+.container {
+  padding: 40px;
+}
+.card {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  max-width: 300px;
+  margin: 0 auto;
+}
