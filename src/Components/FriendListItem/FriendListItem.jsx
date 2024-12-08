@@ -17,7 +17,7 @@ const FriendListItem = ({ avatar, name, isOnline }) => {
           isOnline ? styles.online : styles.offline
         }`}
       >
-        {isOnline ? "online" : "offline"}
+        {isOnline ? "Online" : "Offline"}
       </p>
     </li>
   );
