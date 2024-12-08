@@ -1,5 +1,11 @@
 .container {
   display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.card {
+  display: flex;
   flex-direction: column;
   justify-content: center;
   width: 250px;
